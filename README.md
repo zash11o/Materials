@@ -9,3 +9,6 @@
 - インターネット可視化:
   - [Google & Arbor](http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17911&view=map)
   - [Akamai - Traffic](https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-monitor.jsp) ←日本は日中は赤いぞ（4～8%ぐらい？）
+  
+- コスト：
+  - Kaspersky IT Calculator：[情報セキュリティ予算獲得の参考資料](https://blog.kaspersky.co.jp/calculator-financial-report/17933/)
