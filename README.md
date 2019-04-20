@@ -16,3 +16,8 @@
 - 勉強会会場：
   - [IT系勉強会において無償で会場を貸してくれる企業と面白会場一覧（追記あり）](https://hidemi.hatenablog.com/entry/2019/03/05/100357)
   - [DoorKeeper＠東京](https://www.doorkeeper.jp/%E4%BC%9A%E5%A0%B4#13)
+  
+  -----
+  ## ネタメモ
+  
+  https://internet.watch.impress.co.jp/docs/news/1180994.html?fbclid=IwAR3hpmc8l35pdMM49IChTNtM9C1Ns9GABZLaax92Exp3cOzujHrw-5VV9U8
