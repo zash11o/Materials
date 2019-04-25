@@ -13,6 +13,9 @@
 - コスト：
   - Kaspersky IT Calculator：[情報セキュリティ予算獲得の参考資料](https://blog.kaspersky.co.jp/calculator-financial-report/17933/)
 
+- スキャンツール
+  - [GitLab](https://docs.gitlab.com/ee/user/application_security/sast/)
+
 - 勉強会会場：
   - [IT系勉強会において無償で会場を貸してくれる企業と面白会場一覧（追記あり）](https://hidemi.hatenablog.com/entry/2019/03/05/100357)
   - [DoorKeeper＠東京](https://www.doorkeeper.jp/%E4%BC%9A%E5%A0%B4#13)
