@@ -7,6 +7,8 @@
 - LINE：[仮想通貨交換所に必要なセキュリティ入門](https://engineering.linecorp.com/ja/blog/security-crypto-exchange/?utm_source=dlvr.it&utm_medium=twitter)
 - IPA: [ここからセキュリティ](https://www.ipa.go.jp/security/kokokara/study/company.html)
 - JNSA: [MY CISO ハンドブック](https://www.jnsa.org/result/2019/act_ciso/index.html)
+- [セキュリティのお仕事まとめ](https://www.security-design.jp/entry/2019/10/01/232409?fbclid=IwAR3s-VK94AINALPr99-CHZW93L-koBqszjTVFMg2miqApibcO_7TWTzYFqM)
+
 
 - インターネット可視化:
   - [Google & Arbor](http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17911&view=map)
