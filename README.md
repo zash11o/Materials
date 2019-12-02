@@ -8,6 +8,7 @@
 - IPA: [ここからセキュリティ](https://www.ipa.go.jp/security/kokokara/study/company.html)
 - JNSA: [MY CISO ハンドブック](https://www.jnsa.org/result/2019/act_ciso/index.html)
 - [セキュリティのお仕事まとめ](https://www.security-design.jp/entry/2019/10/01/232409?fbclid=IwAR3s-VK94AINALPr99-CHZW93L-koBqszjTVFMg2miqApibcO_7TWTzYFqM)
+- [コードの健全性: 礼儀正しいレビュー == 役立つレビュー](https://developers-jp.googleblog.com/2019/12/respectful-reviews.html)
 
 
 - インターネット可視化:
