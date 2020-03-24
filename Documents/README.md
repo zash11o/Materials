@@ -2,7 +2,7 @@
 
 半永久的にWIP(Work In Progress)
 
-[OriginalFormat](./OriginalFormat/)配下には、PDF化前の*.docや*.pptがあるけど、色々弄ってるのでずれてるかも。
+[OriginFormat](./OriginFormat/)配下には、PDF化前の*.docや*.pptがあるけど、色々弄ってるのでずれてるかも。
 
 - [超訳]CMMC_v1.0_Public_Briefing_20200131_v2.pdf
   - [CMMC Public Briefing](https://www.acq.osd.mil/cmmc/draft.html)の一部日本語化
