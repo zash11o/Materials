@@ -14,3 +14,6 @@
         - example.[com|org|net]
         - example(0-9).jp
         - example.co.jp
+      - 以下のgTLDも使えるのか？[Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AA%E3%83%83%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%83%AC%E3%83%99%E3%83%AB%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3)
+        - 本来はドメイン名の衝突回避用
+          - .corp, .home, .mail
